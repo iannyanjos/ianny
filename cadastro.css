@@ -1,0 +1,115 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin:0;
+    padding:0;
+	font-family: 'Roboto', sans-serif;
+    background-color: #D1A2A2;
+
+    font-family: 'Julius Sans One', sans-serif;
+
+
+}
+.cor{
+    background-color: #47141E;
+}
+
+
+  
+
+header {
+	margin-bottom: 40px;
+	display: flex;
+	align-items: center;
+	justify-content:space-around;
+    width: 100%;
+    height: 700px;
+  
+    
+}
+.fundo
+{
+    background-color: #47141E;
+}
+
+
+.container {
+    
+    margin:auto;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.cor2
+{
+    background-color: #D1A2A2;
+}
+
+.letras
+{
+    color:#D1A2A2;
+   font-size: 25px;
+}
+.letras5
+{
+    color:#47141E;
+   font-size: 25px;
+}
+.letras7
+{
+    color:#D1A2A2;
+   font-size: 15px;
+}
+.contato2 {
+    padding-left: 50px;}
+.contato {
+padding-left: 50px;
+font-size: 50px;
+}
+.contato4{
+    width: 100px;
+    height: 50px;
+}
+.cadastro{
+    display: flex;
+
+}
+main{
+    display: flex;
+    justify-content:space-around
+}
+
+.LETRAS2
+{
+font-size: 50PX;
+color:#47141E;
+text-align:center;
+}
+.LETRAS4
+{
+font-size: 50PX;
+color:#D1A2A2;
+text-align:center;
+}
+.centro
+{
+text-align: center;
+}
+.LETRAS3
+{
+font-size: 50PX;
+color:#47141E;
+}
+.botao {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color:#D1A2A2;
+    border-radius: 5px;
+    border: none;
+}
